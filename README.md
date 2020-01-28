@@ -1,6 +1,6 @@
 # RandomQuoteMachine
 
-Random Quote Machine for FCC
+Random Quote Machine
 
 ## Run locally
 
